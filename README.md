@@ -4,7 +4,7 @@
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this Kaggle competition challenges to predict the final price of each home.
 
-![alt text](https://olegleyz.github.io/images/header.jpg)
+![alt text](https://github.com/mcmarians/kaggle-advanced-regression/blob/main/kaggle_5407_media_housesbanner.png)
 
 ## Files
 
